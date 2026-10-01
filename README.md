@@ -5,10 +5,10 @@ hidden; clicking a cell reveals its letter, and when a word is complete its clue
 under **INFO** fades from grey to black. Once the grid is finished the page
 reloads after 30 seconds. Vanilla HTML, CSS and JavaScript — no dependencies.
 
-**Live:** https://acci4i0.github.io/crossword/
+**Live:** https://acci4i0.github.io/CRSW_Andre/
 
 Part of the CRSW series — one crossword per person, same code:
-[Andrea](https://acci4i0.github.io/crossword/) · [Thomas](https://acci4i0.github.io/CRSW_Thom/) · [Ilaria](https://acci4i0.github.io/CRSW_Ila/) · [Emma](https://acci4i0.github.io/CRSW_Emma/) · [Gianmarco](https://acci4i0.github.io/CRSW_Gian/) · [Costanza](https://acci4i0.github.io/CRSW_Costi/)
+[Andrea](https://acci4i0.github.io/CRSW_Andre/) · [Thomas](https://acci4i0.github.io/CRSW_Thom/) · [Ilaria](https://acci4i0.github.io/CRSW_Ila/) · [Emma](https://acci4i0.github.io/CRSW_Emma/) · [Gianmarco](https://acci4i0.github.io/CRSW_Gian/) · [Costanza](https://acci4i0.github.io/CRSW_Costi/)
 
 > **Rebuild study** of [sa-m.fr](https://sa-m.fr) by Samuel Dumez. Original
 > concept and design © Samuel Dumez; rebuilt for study, with my own content.
