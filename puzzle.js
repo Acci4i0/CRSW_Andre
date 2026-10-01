@@ -15,10 +15,9 @@
 //
 //  Numero di indizi: libero (il footer si divide da solo in due colonne).
 //
-//  Avatar (facoltativi): immagini in assets/avatars/. Con piu' di un avatar
-//  compaiono le frecce per sceglierlo; la scelta resta salvata nel browser.
-//  Una voce puo' essere il percorso di un'immagine ("assets/avatars/x.webp")
-//  oppure un'animazione a sprite sheet ({ sprite, frames, frameMs }).
+//  Avatar in alto a sinistra (facoltativo): il percorso di un'immagine in
+//  assets/ ("assets/avatar.webp") oppure un'animazione a sprite sheet
+//  ({ sprite, frames, frameMs }). Togli la riga per non mostrarlo.
 // ============================================================================
 
 const PUZZLE = {
@@ -47,8 +46,6 @@ const PUZZLE = {
     year: 2026,
   },
 
-  // Avatar in alto a sinistra: [] = nessun avatar.
-  avatars: [
-    { sprite: "assets/avatars/walk-sprite.png", frames: 7, frameMs: 120 },
-  ],
+  // Avatar in alto a sinistra (vedi in cima al file).
+  avatar: { sprite: "assets/walk-sprite.png", frames: 7, frameMs: 120 },
 };
